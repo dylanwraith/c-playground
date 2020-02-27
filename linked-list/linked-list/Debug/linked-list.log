@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\dw0519\Documents\c-playground\linked-list\linked-list\main.c(12,38): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\dw0519\Documents\c-playground\linked-list\linked-list\main.c(54,17): warning C4013: 'free' undefined; assuming extern returning int
+  linked-list.vcxproj -> C:\Users\dw0519\Documents\c-playground\linked-list\Debug\linked-list.exe
